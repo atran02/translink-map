@@ -14,7 +14,7 @@ export default function Home() {
 
       <header className={styles.header}>
         <Image src="/1280px-TransLink_(Vancouver)_Logo.svg.png" alt="Translink Logo" width={160} height={71}  />
-        Vancouver's Expo Line
+        Vancouver&apos;s Expo Line
       </header>
      
 
